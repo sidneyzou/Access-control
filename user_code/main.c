@@ -1,6 +1,5 @@
 #include "head.h"
 
-
 void main() {
 	
 	u16 count = 0;
